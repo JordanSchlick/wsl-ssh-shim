@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"*.ush": "hlsl",
+		"stdio.h": "c",
+		"stdlib.h": "c"
+	}
+}
